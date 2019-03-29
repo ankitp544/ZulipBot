@@ -11,5 +11,5 @@ Built With:-
 Zulip bot API
 
 License:-
-This project is licensed under the Apache 2.0 License.
+This project is licensed under the Apache 2.0 Open Source License.
 
