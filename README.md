@@ -1,0 +1,2 @@
+# ZulipBot
+Zulip Chat Bot
